@@ -1,1 +1,1 @@
-# Olá, boas vindas ao meu perfil do GitHub ::smile::
+# Olá, boas vindas ao meu perfil do GitHub :smile:
