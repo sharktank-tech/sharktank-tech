@@ -1,7 +1,7 @@
-Danilo Cavalcante
-Estudante de programação | Amante de tecnologia
+#Danilo Cavalcante
+###Estudante de programação | Amante de tecnologia
 
-Sobre mim
+##Sobre mim
 Olá! Sou Danilo Cavalcante, um estudante de programação apaixonado por tecnologia. Estou em constante busca por conhecimento e adoro explorar novas áreas dentro da programação.
 
 Habilidades
