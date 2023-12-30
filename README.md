@@ -8,6 +8,7 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 ## Habilidades
 - Linguagens de Programação: Python (intermediario) 🐍
 - Banco de Dados: SQL (básico) 📊
+- Análise de Dados 🎲
 - Desenvolvimento Web: HTML, CSS, JavaScript (em aprendizado) 🌐
 
 ## Cursos
@@ -18,7 +19,8 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 - Git e GitHub: Primeiros passos com Git e GitHub 🚀
 
 ## Projetos Destacados
-- Projeto de ETL com Python: Um projeto em que apliquei técnicas de ETL (Extract, Transform, Load) utilizando a linguagem Python para extrair dados de diferentes fontes, realizar transformações e carregá-los em um destino específico. 🚀
+- Projeto de Análise de Dados de Mercado adquiridos no Klegle, onde utilizo a linguagem Python-Pandas uma biblioteca voltada para análise de dados(https://github.com/sharktank-tech/Dados-Mercado)
+- API para gerenciamento de biblioteca online usando Flask e Python(https://github.com/sharktank-tech/Biblioteca_backend)
 
 ## Contato
 - E-mail: danilokog652@email.com
