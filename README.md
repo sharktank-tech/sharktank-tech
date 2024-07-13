@@ -13,6 +13,8 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 
 ## Cursos
 - Programação Orientada a Objetos 🎯
+- Python AI Backend Developer 🧱
+- Visão Computacional 🤖
 - SQL Básico 📚
 - Python Básico 🐍
 - ETL com Python 🔄
