@@ -25,7 +25,7 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 - Projeto de Análise de Dados de Mercado adquiridos no Klegle, onde utilizo a linguagem Python-Pandas uma biblioteca voltada para análise de dados(https://github.com/sharktank-tech/Dados-Mercado)
 - Projeto de gerenciamento de tarefas que permite adicionar, editar, excluir e visualizar tarefas. O projeto também inclui a funcionalidade de enviar um relatório por e-mail(https://github.com/sharktank-tech/Tarefas)
 - API para gerenciamento de biblioteca online usando Flask-Python(https://github.com/sharktank-tech/Biblioteca_backend)
-- Site para gerenciamento de projetos e pessoalusando Flask-Python, HMTL & CSS e Java Script(https://github.com/sharktank-tech/Khameleon)
+- Site para gerenciamento de projetos e pessoal usando Flask-Python, HMTL & CSS e Java Script(https://github.com/sharktank-tech/Khameleon)
 
 ## Contato
 - E-mail: danilokog652@email.com
