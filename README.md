@@ -33,5 +33,6 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 
 Fique à vontade para explorar meus repositórios e projetos para conhecer melhor meu trabalho e meu percurso como estudante de programação. Estou aberto a colaborações e oportunidades de aprendizado conjunto! ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilocs&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=danilocs&theme=radical)
+
 
