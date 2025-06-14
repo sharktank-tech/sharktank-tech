@@ -1,6 +1,6 @@
 # Danilo Cavalcante
 
-💻 Estudante de programação | ❤️ Amante de tecnologia
+💻 Estudante de programação | ❤️ Amante de tecnologia |  👾 Indie Hacker
 
 ## Sobre mim
 Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia. Estou em constante busca por conhecimento e adoro explorar novas áreas dentro da programação.
