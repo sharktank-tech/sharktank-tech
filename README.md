@@ -69,21 +69,22 @@ Fique à vontade para explorar meus repositórios e projetos para conhecer melho
 
 <div align="center">
   <!-- Sistemas e IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" style="display:inline-block; margin: 10px;" />
 
   <!-- Controle de versão -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="display:inline-block; margin: 10px;" />
 
   <!-- Banco de dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/PhpMyAdmin_logo.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/PhpMyAdmin_logo.png" height="40" style="display:inline-block; margin: 10px;" />
 
   <!-- Cloud/Deploy -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
-  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" style="display:inline-block; margin: 10px;" />
+  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" height="40" style="display:inline-block; margin: 10px;" />
 </div>
+
