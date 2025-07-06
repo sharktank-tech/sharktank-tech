@@ -1,9 +1,9 @@
 # Danilo Cavalcante
 
-💻 Estudante de programação | ❤️ Amante de tecnologia |  👾 Indie Hacker
+💻 Estudante de Programação | ❤️ Amante de Tecnologia | 👾 Indie Hacker
 
 ## Sobre mim
-Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia. Estou em constante busca por conhecimento e adoro explorar novas áreas dentro da programação.
+Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia. Estou em constante busca por conhecimento e adoro explorar novas áreas dentro da área de desenvolvimento.
 
 ## Habilidades
 - Linguagens de Programação: Python 🐍
@@ -14,7 +14,7 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 ## Cursos
 - Programação Orientada a Objetos 🎯
 - Python AI Backend Developer 🧱
-- Análise de Dados Com Python 🎲
+- Análise de Dados com Python 🎲
 - Visão Computacional 🤖
 - SQL 📚
 - Python 🐍
@@ -22,18 +22,27 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 - Git e GitHub 🚀
 
 ## Projetos Destacados
-- Projeto de Análise de Dados de Mercado adquiridos no Klegle, onde utilizo a linguagem Python-Pandas uma biblioteca voltada para análise de dados(https://github.com/sharktank-tech/Dados-Mercado)
-- Projeto de gerenciamento de tarefas que permite adicionar, editar, excluir e visualizar tarefas. O projeto também inclui a funcionalidade de enviar um relatório por e-mail [https://github.com/sharktank-tech/Gerenciador-Tarefas](https://github.com/sharktank-tech/Gerenciador-Tarefas)
-- O projeto consiste em um painel de consulta de dados, que tem funcionalidades de gerenciamento de conta, futuramente terá gerencimento de assinaturas além de integração ocm API [https://github.com/sharktank-tech/Painel](https://github.com/sharktank-tech/Painel)
-- O E-Ponto é uma aplicação de gestão de ponto eletrônico, desenvolvida para facilitar o controle de jornada de trabalho dos colaboradores. Com funcionalidades intuitivas e integração com banco de dados PostgreSQL [https://github.com/sharktank-tech/e-ponto](https://github.com/sharktank-tech/e-ponto)
+- **[Dados de Mercado - Klegle](https://github.com/sharktank-tech/Dados-Mercado)**  
+  Projeto de análise de dados de mercado usando Python e a biblioteca Pandas, extraindo e tratando informações úteis para tomada de decisão.
+
+- **[Gerenciador de Tarefas](https://github.com/sharktank-tech/Gerenciador-Tarefas)**  
+  Aplicação para gerenciamento de tarefas com funcionalidades como adicionar, editar, excluir e visualizar tarefas. Inclui envio de relatórios por e-mail.
+
+- **[Painel de Consulta de Dados](https://github.com/sharktank-tech/Painel)**  
+  Projeto de painel administrativo com funcionalidades de login, gerenciamento de contas, e futura integração com API e gerenciamento de assinaturas.
+
+- **[E-Ponto](https://github.com/sharktank-tech/e-ponto)**  
+  Sistema de controle de ponto eletrônico para facilitar a gestão de jornada de trabalho dos colaboradores, com banco de dados PostgreSQL e interface intuitiva.
 
 ## Contato
-- E-mail: danilokog652@email.com
-- LinkedIn: [Danilo Cavalcante](https://www.linkedin.com/in/danilo-c-s-5340b5253/) 💼
+- 📧 E-mail: danilokog652@email.com  
+- 💼 LinkedIn: [Danilo Cavalcante](https://www.linkedin.com/in/danilo-c-s-5340b5253/)
 
-Fique à vontade para explorar meus repositórios e projetos para conhecer melhor meu trabalho e meu percurso como estudante de programação. Estou aberto a colaborações e oportunidades de aprendizado conjunto! ✨
+Fique à vontade para explorar meus repositórios e projetos para conhecer melhor meu trabalho e trajetória como estudante de programação. Estou aberto a colaborações e oportunidades de aprendizado conjunto! ✨
 
-## 📊 STATS
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharktank-tech&show_icons=true&theme=radical" height="180"/>
@@ -43,7 +52,7 @@ Fique à vontade para explorar meus repositórios e projetos para conhecer melho
 
 ---
 
-## 💻 TECH STACK
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
@@ -56,7 +65,7 @@ Fique à vontade para explorar meus repositórios e projetos para conhecer melho
 
 ---
 
-## 🛠️ FERRAMENTAS
+## 🛠️ Ferramentas
 
 <div align="center">
   <!-- Sistemas e IDEs -->
@@ -77,5 +86,4 @@ Fique à vontade para explorar meus repositórios e projetos para conhecer melho
   <!-- Cloud/Deploy -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
   <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" height="40" />
-
 </div>
