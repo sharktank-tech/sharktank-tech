@@ -6,28 +6,31 @@
 Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia. Estou em constante busca por conhecimento e adoro explorar novas áreas dentro da área de desenvolvimento.
 
 ## Habilidades
-- Linguagens de Programação: Python 🐍
+- Linguagens de Programação: Python🐍, BASH🐧
 - Banco de Dados: SQL 📊
-- Automação 🤖
-- Análise de Dados 🎲
+- Automação: Python, Selenium WebDriver, Schedule 🤖
+- Análise de Dados: pandas, matplotlib, Google Colab 🎲
 - Desenvolvimento Web: HTML, CSS, JavaScript 🌐
 
 ## Cursos
 - Programação Orientada a Objetos 🎯
+- Desenvolvimento Web com Python 🌐
 - Python AI Backend Developer 🧱
 - Análise de Dados com Python 🎲
 - Visão Computacional 🤖
-- SQL 📚
+- SQL e NoSQL Para Backend 📚
 - Python 🐍
+- Introdução ao Linux🐧
+- Introdução ao Hacking e Pentest 💻
 - ETL com Python 🔄
 - Git e GitHub 🚀
 
 ## Projetos Destacados
 - **[RPA_email-automation](https://github.com/sharktank-tech/RPA_email-automation)**
-  Projeto de automação usando Python, Selenium e schedule, com extração de dados e envio de email 
+  Projeto de automação usando Python, Selenium e Schedule, com extração de dados e envio de email 
 
-- **[Dados de Mercado - Klegle](https://github.com/sharktank-tech/Dados-Mercado)**  
-  Projeto de análise de dados de mercado usando Python e a biblioteca Pandas, extraindo e tratando informações úteis para tomada de decisão.
+- **[Portifólio de análise de dados](https://analise-de-dados-portifolio.vercel.app/)**  
+  Coleção de projeto de análise de dados com diferentes tipos de análise: **Análise preditiva**, usa séries temporais e modelos para prever valores futuros e **Análise descritiva**, monitora e apresenta dados atuais e históricos para tomada de decisão
 
 - **[Gerenciador de Tarefas](https://github.com/sharktank-tech/Gerenciador-Tarefas)**  
   Aplicação para gerenciamento de tarefas com funcionalidades como adicionar, editar, excluir e visualizar tarefas. Inclui envio de relatórios por e-mail.
