@@ -8,6 +8,7 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 ## Habilidades
 - Linguagens de Programação: Python 🐍
 - Banco de Dados: SQL 📊
+- Automação 🤖
 - Análise de Dados 🎲
 - Desenvolvimento Web: HTML, CSS, JavaScript 🌐
 
