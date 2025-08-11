@@ -23,6 +23,9 @@ Olá! Me chamo Danilo, sou estudante de programação apaixonado por tecnologia.
 - Git e GitHub 🚀
 
 ## Projetos Destacados
+- **[RPA_email-automation](https://github.com/sharktank-tech/RPA_email-automation)**
+  Projeto de automação usando Python, Selenium e schedule, com extração de dados e envio de email 
+
 - **[Dados de Mercado - Klegle](https://github.com/sharktank-tech/Dados-Mercado)**  
   Projeto de análise de dados de mercado usando Python e a biblioteca Pandas, extraindo e tratando informações úteis para tomada de decisão.
 
